@@ -487,21 +487,19 @@ img{
     letter-spacing: -2px;
 }
 #banner .imgbox .textbox .text1 {
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 30px;
     margin-left: 20px;
     margin-right: 8px;
     font-weight: 500;
 }
 #banner .imgbox .textbox .text2 {
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 5px;
     margin-left: 20px;
     margin-right: 8px;
     font-weight: 500;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+
 }
 #banner .imgbox .icon1 {
     display: flex;
