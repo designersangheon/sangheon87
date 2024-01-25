@@ -165,18 +165,18 @@ img{
     display: block;
     font-size: 23px;
 }
-#contents1 .contents1-1 .conbox span {
+#contents1 .contents1-1 .icon span {
     color: #fff;
     margin-left: 255px;
     margin-top: 129px;
     display: block;
 }
-#contents1 .contents1-1 .icon {
+#contents1 .contents1-1 .icon img {
     width: 30px;
-    height: 10px;   
+    height: 30px;   
     position: absolute;
     right: 30px;
-    bottom: 40px;
+    bottom: 20px;
 }
 /* content1-2 */
 #contents1 .contents1-2 {
@@ -209,18 +209,18 @@ img{
     display: block;
     font-size: 23px;
 }
-#contents1 .contents1-2 .conbox span {
+#contents1 .contents1-2 .icon span {
     color: #fff;
     margin-left: 255px;
     margin-top: 129px;
     display: block;
 }
-#contents1 .contents1-2 .icon {
+#contents1 .contents1-2 .icon img {
     width: 30px;
-    height: 10px;   
+    height: 30px;   
     position: absolute;
     right: 30px;
-    bottom: 40px;
+    bottom: 20px;
 }
 
 /* content1-3 */
