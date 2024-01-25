@@ -165,18 +165,20 @@ img{
     display: block;
     font-size: 23px;
 }
+#contents1 .contents1-1 .icon {
+    display: flex;
+    padding: 10px;
+    margin-top: 120px;
+    margin-left: 230px;
+}
 #contents1 .contents1-1 .icon span {
     color: #fff;
-    margin-left: 255px;
-    margin-top: 129px;
-    display: block;
 }
 #contents1 .contents1-1 .icon img {
     width: 30px;
-    height: 30px;   
-    position: absolute;
-    right: 30px;
-    bottom: 20px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: -5px;
 }
 /* content1-2 */
 #contents1 .contents1-2 {
